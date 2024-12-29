@@ -1,9 +1,6 @@
 # 👋 Hi there, I'm Prachi Saibewar!
-
 🌟 **Full Stack Developer | AI Enthusiast | Problem Solver**
-
-I am actively seeking **junior roles** on a diverse team where I can learn and improve my skills. I am open to **full-time** opportunities.
-
+"I'm a motivated master's student passionate about software development, innovation, and creating impactful solutions. Driven by a commitment to excellence, I aim to code the future! 👨‍💻 I’m actively seeking junior roles on a collaborative team where I can grow and contribute. Open to full-time opportunities."
 ---
 
 ## 🛠️ Technologies and Tools:
