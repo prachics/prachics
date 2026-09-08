@@ -1,36 +1,49 @@
-# 👋 Hi there, I'm Prachi Saibewar!
-I'm a motivated master's student passionate about software development, innovation, and creating impactful solutions. Driven by a commitment to excellence, I aim to code the future! 👨‍💻 I’m actively seeking junior roles on a collaborative team where I can grow and contribute. Open to full-time opportunities.
+# Prachi Saibewar
 
+**AI Software Engineer** · Orlando, FL · open to remote & relocation
 
-## 🛠️ Technologies and Tools:
-### **Frontend**
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+I build production Generative AI systems — retrieval-augmented generation, LLM evaluation, and agentic workflows — with 4+ years of software engineering behind them. Most recently at **Rokt** and **Orlando Health**, shipping AI-assisted workflows in regulated healthcare and enterprise environments.
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+- Raised grounded-answer rate **79% → 92%** and retrieval **Recall@5 76% → 91%** on a production RAG system over 10K+ clinical knowledge records
+- Engineered consent-aware data routing across **300+ CDP integrations** with UID2 identity workflows under GDPR/CCPA
+- Built **FHIR R4 / HL7 v2** healthcare integrations with OAuth 2.0 and HIPAA-aligned PHI access controls
+- Cut p95 pipeline latency **35%** and manual operational effort **80%** through event-driven design and automation
 
-### **Other Tools**
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**[prachisaibewar.com](https://prachisaibewar.com)** · [LinkedIn](https://www.linkedin.com/in/prachi-saibewar/) · [prachi.saibewar.cs@gmail.com](mailto:prachi.saibewar.cs@gmail.com)
 
 ---
 
-## 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prachics&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prachics&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
+## Featured work
 
----
+**[IncidentIQ](https://github.com/prachics/incidentiq)** — Agentic AI production-support platform. A LangGraph agent running hybrid RAG over Postgres + pgvector, with approval-gated write actions and a 100-scenario evaluation harness. 90%+ task completion, 95%+ tool-execution success.
+`Python` `FastAPI` `LangGraph` `RAG` `pgvector` `Langfuse` `Docker`
 
-## 📞 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prachi-saibewar)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prachics)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saibewarprachi@gmail.com)
+**[Chartalist.org](https://chartalist.org)** — Open-science catalogue of ML-ready blockchain graph datasets, published at [NeurIPS 2022](https://papers.nips.cc/paper_files/paper/2022/hash/e245189a86310b6667ac633dbb922d50-Abstract-Datasets_and_Benchmarks.html). I rebuilt the platform off legacy PHP into a React/TypeScript application.
+`React` `TypeScript` `Research Platform`
+
+**[SEC 8-K Product Extractor](https://github.com/prachics/LLM-SEC-8K-Product-Extractor)** — Pulls new product announcements out of SEC Form 8-K filings with LLMs and NER, emitting structured company / ticker / filing-time records.
+`LLM` `NER` `Structured Extraction`
+
+**[FinAgent Pro](https://github.com/prachics/FinAgent)** — Multi-agent investment research: market intelligence, fundamental, and technical analysis agents over real-time data, producing structured equity research.
+`Multi-Agent` `Python` `LLM`
+
+**[Geo-Enabled POI API](https://github.com/prachics/geo-enabled-poi-api)** — Production-ready Points-of-Interest API with spatial indexing and optimized radius queries, plus an interactive map UI.
+`Django 5` `GeoDjango` `PostGIS`
+
+## Open source
+
+| Contribution | Status |
+| --- | --- |
+| [FDataLab/Chainlet-Orbits#1](https://github.com/FDataLab/Chainlet-Orbits/pull/1) — transaction ETL tooling for the [Chainlet Orbits](https://arxiv.org/html/2306.07974) (KDD 2025) codebase | **Merged** |
+| [networkx/networkx#7974](https://github.com/networkx/networkx/pull/7974) — adding the AlphaCore data-depth core decomposition algorithm | In review |
+| [friedhelmvictor/alphacore#3](https://github.com/friedhelmvictor/alphacore/pull/3) — refactor of the reference Python & R implementations | In review |
+
+## Tech
+
+**AI & GenAI** — LLMs, RAG, Agentic AI, LangChain, LangGraph, OpenAI, Vertex AI, Embeddings, Vector & Semantic Search, Prompt & Context Engineering, Structured Outputs, Tool Calling, LLM & Retrieval Evaluation, Langfuse, Guardrails, Human-in-the-Loop
+
+**Backend** — Python, C#, TypeScript, JavaScript, SQL, FastAPI, ASP.NET Core/.NET, Node.js, REST APIs, Microservices, Distributed Systems, Event-Driven Architecture, OAuth2
+
+**Cloud & Data** — AWS (S3, SQS), PostgreSQL, pgvector, Redis, Docker, CI/CD, Git
+
+**Frontend, Testing & Observability** — React, OpenTelemetry, Prometheus, PromQL, Chronosphere, Jest, Playwright, Postman
