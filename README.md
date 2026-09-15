@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer** · Orlando, FL · open to remote & relocation
 
-I build web applications end to end: React and TypeScript front ends, C#/.NET and Node.js REST APIs, and the cloud data workflows behind them. 3+ years across product development, data workflows, testing, monitoring, and production troubleshooting. Most recently at **Rokt**, previously **University of Central Florida** and **Infosys**.
+I build web applications end to end: React and TypeScript front ends, C#/.NET and Node.js REST APIs, and the cloud data workflows behind them. 4+ years across product development, data workflows, testing, monitoring, and production troubleshooting. Most recently at **Rokt**, previously **University of Central Florida** and **Infosys**.
 
 - Cut identity troubleshooting time **30%** with full-stack identity-resolution workflows in React, TypeScript, and C#/.NET, letting customers trace and resolve user profiles across authenticated and anonymous sessions
 - Built consent-based data-routing workflows so customers can enforce **GDPR/CCPA** privacy preferences and automate consent-aware routing to downstream integrations
